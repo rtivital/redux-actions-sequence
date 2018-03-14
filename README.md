@@ -1,1 +1,1 @@
-# redux-actions-sequence
+# Redux Actions Sequence
