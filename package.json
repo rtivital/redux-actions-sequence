@@ -32,6 +32,6 @@
     "tap-spec": "^4.1.1",
     "tape": "^4.9.0",
     "webpack": "^4.1.1",
-    "webpack-cli": "^2.0.12"
+    "webpack-cli": "^5.0.1"
   }
 }
